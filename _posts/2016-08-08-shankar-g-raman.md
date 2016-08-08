@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Immortalise (your) expressions and emotions!
-datePublished: '2016-08-08T11:55:37.136Z'
-dateModified: '2016-08-08T11:55:34.699Z'
+datePublished: '2016-08-08T14:32:47.663Z'
+dateModified: '2016-08-08T14:31:52.431Z'
 title: ''
 author: []
 via: {}
@@ -38,6 +38,7 @@ For the time being, I am offering the following Photo shoots:
 - Casual profile pictures for the Young Adults and The Social Savvy
 
 - Happy go family wanting to capture "cheese" during party's (Birthdays, Dinner, BBQ events, family events...)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cddef4e-cfbb-4107-808a-1fda9ad9c293.jpg)
 
 Products and Services
 
@@ -63,5 +64,3 @@ Professional Flexibility Attributes
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8874acb6-98ab-4388-af92-bb144b6b229d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1db80139-c87e-4623-9962-28fcfe2147bd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9afaa593-6feb-46ef-9eb3-dabc246c9dce.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cddef4e-cfbb-4107-808a-1fda9ad9c293.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c01d4ef3-a31b-44ae-954d-ddc59ff1ec56.jpg)
