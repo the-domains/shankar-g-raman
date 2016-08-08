@@ -4,63 +4,32 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Immortalise (your) expressions and emotions!
-datePublished: '2016-08-08T14:32:47.663Z'
-dateModified: '2016-08-08T14:31:52.431Z'
+description: 'Heisterstroot 38, 21698 Harsefeld'
+datePublished: '2016-08-08T14:33:16.542Z'
+dateModified: '2016-08-08T14:29:40.245Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-08-08-shankar-g-raman.md
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: shankar-g-raman/index.html
 _type: Article
 
 ---
-Immortalise (your) expressions and emotions!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fd2fdfc-59d6-47c9-93ae-bde3acb41bda.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb1e4a6b-5c8f-407b-9bc1-2d11d3e640d2.jpg)
 
-I have recently moved in to offer professional photography services. My most valuable services to my clients would be to help them capture their special moments which they could share with friends, family and store them as memories.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd3b4cf5-00da-4c13-a6e4-505473ff5509.jpg)
+Heisterstroot 38, 21698 Harsefeld
 
-I intend to work as a Small business with required at-home studio space, client preferred locations, a travel light inventory of photo equipment's while offering clients cash receipt with tax exemption (KLEINUNTERNEHMERREGELUNG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2836b42-9539-4b3a-a28c-3cceebed300d.jpg)
+Germany
 
-For the time being, I am offering the following Photo shoots:
+http://shankargraman.wix.com/ramansimpressions
 
-- Small business seeking to create a digital stock of Product (Profiles)
+Tel: +49-152-5677 3656
 
-- Emerging Entrepreneurs seeking High Key Picture
-
-- Low Key Portraits for client liking more "drama"/contrast in their picture
-
-- Casual profile pictures for the Young Adults and The Social Savvy
-
-- Happy go family wanting to capture "cheese" during party's (Birthdays, Dinner, BBQ events, family events...)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cddef4e-cfbb-4107-808a-1fda9ad9c293.jpg)
-
-Products and Services
-
-- Photo Shoots for Small Business - Team & Head Shots for media, Product Protfoloio & Social Events 
-
-- Freelance Digital Photographer
-
-- Able to assist and support as secondary lensman for other studios and freelancer projects
-
-- Visit the venue and capture moments from ceremonies like marriage, birthdays, parties, etc
-
-- Image print service, on frames, album of the photographs by designing the layout and make them visually appealing
-
-Professional Flexibility Attributes 
-
-- Willing to travel within the country and outside as per the requirements of the assignments
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd5f621b-af1b-4819-9777-be659cf08f88.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f639a56d-7b27-4551-b1b5-c832e312f42d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2393c868-77ac-42c8-bae9-b5edbb93cdf7.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6619544d-c9ea-4257-8a65-97b600f5921f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ad71b0d-f5ea-4e59-a830-53d8a9d366dd.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c26b3c0-b5c6-476e-9477-e905dae1218e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8874acb6-98ab-4388-af92-bb144b6b229d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1db80139-c87e-4623-9962-28fcfe2147bd.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9afaa593-6feb-46ef-9eb3-dabc246c9dce.jpg)
+Mail: Shankar.g.raman@gmail.com
