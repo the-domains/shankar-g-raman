@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Heisterstroot 38, 21698 Harsefeld'
-datePublished: '2016-08-08T14:33:16.542Z'
-dateModified: '2016-08-08T14:29:40.245Z'
+datePublished: '2016-08-08T14:42:11.416Z'
+dateModified: '2016-08-08T14:35:48.038Z'
 title: ''
 author: []
 via: {}
