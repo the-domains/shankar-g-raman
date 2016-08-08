@@ -1,0 +1,28 @@
+name: Shankar G Raman
+favicon: null
+layout_spectrum: 0.44911757856607437
+typography_spectrum: 0.5400825256947428
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5780922456178814
+  lightness: 0.9169792023021728
+  saturation: 0.25306608784012496
+  rhythmicContrast: 0.7754803539719433
+purpose: []
