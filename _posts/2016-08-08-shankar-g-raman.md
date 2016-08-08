@@ -5,11 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Shankar G Raman
-datePublished: '2016-08-08T09:03:35.683Z'
-dateModified: '2016-08-08T08:17:27.580Z'
+datePublished: '2016-08-08T09:05:45.660Z'
+dateModified: '2016-08-08T09:04:45.788Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-08-shankar-g-raman.md
 authors: []
 publisher:
   name: null
@@ -17,7 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-08-08-shankar-g-raman.md
 url: shankar-g-raman/index.html
 _type: Article
 
