@@ -1,6 +1,6 @@
 name: Shankar G Raman
 favicon: null
-layout_spectrum: 0.2418
+layout_spectrum: 1
 typography_spectrum: 0.50795
 title: Immortalise your expressions and emotions!
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#151515'
-    - '#678db2'
-    - '#393939'
-    - '#ad906e'
-    - '#fffff7'
+    - '#000000'
+    - '#fefefe'
+    - '#9f5401'
+    - '#fe9b00'
+    - '#a1ac56'
   brandStrength: 0
   lightness: 0.3125
   saturation: 1
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []
